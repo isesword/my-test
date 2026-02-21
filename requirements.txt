@@ -1,2 +1,1 @@
 alibabacloud-oss-v2==1.2.3
-scrapy==2.14.1
