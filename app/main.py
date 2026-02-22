@@ -1,5 +1,4 @@
 import time
 
-for i in range(10):
+for i in range(2000):
     print(f"i: {i}")
-    time.sleep(3)
